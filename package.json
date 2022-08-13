@@ -1,5 +1,5 @@
 {
-  "name": "アプリ名",
+  "name": "ajax_app-38081",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
@@ -13,6 +13,6 @@
     "webpack-dev-server": "^3.10.3"
   },  
   "engines" : {
-    "node": "14.19.3"
+    "node": "14.19.3"  
   }
  }
